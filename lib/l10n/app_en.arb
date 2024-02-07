@@ -1,0 +1,21 @@
+{
+  "app_title": "Islami",
+  "quran_tab": "Quran",
+  "hadeth_tab": "Hadeth",
+  "sebha_tab": "Sebha",
+  "radio_tab": "Radio",
+  "sura_name": "Sura Name",
+  "hadeth_name": "Hadeth Name",
+  "holy_quran_radio": "Holy quran radio",
+  "number_of_praises": "Number of praises",
+  "subhan_allah": "Subhan Allah",
+  "hamd_llah": "Thanks Allah",
+  "allah_akbr": "Allah Akber",
+  "settings": "Settings",
+  "language": "Language",
+  "english": "English",
+  "arabic": "Arabic",
+  "theme": "Theme",
+  "light": "Light",
+  "dark": "Dark"
+}
