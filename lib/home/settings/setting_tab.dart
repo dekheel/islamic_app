@@ -11,7 +11,6 @@ class SettingsPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    Size screenSize = MediaQuery.of(context).size;
     var provider = Provider.of<AppConfigProvider>(context);
     return Container(
       margin: const EdgeInsets.all(15),
